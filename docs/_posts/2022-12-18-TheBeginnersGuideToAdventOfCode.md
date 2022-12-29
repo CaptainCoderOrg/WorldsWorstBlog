@@ -4,9 +4,6 @@ title:  "The Beginner's Guide to Advent of Code 2022"
 date:   2022-12-18 09:06:00 -0700
 categories: AdventOfCode programming tutorial
 ---
-# The Beginner's Guide to Advent of Code 2022
-
-**Hello Coders!**
 
 I am a believer that the Advent of Code is for *EVERYONE*! It is an excellent way to 
 practice your problem solving skills, collaborate with others, and LEARN.
@@ -16,10 +13,9 @@ practice your problem solving skills, collaborate with others, and LEARN.
 I created video guides to help beginner programmers develop an approach to Part
 1 of each puzzle. The videos can be found at the end of this writeup!
 
-- [The Beginner's Guide to Advent of Code 2022](#the-beginners-guide-to-advent-of-code-2022)
-  - [tl;dr](#tldr)
-  - [The Long Version](#the-long-version)
-  - [The Guides](#the-guides)
+- [tl;dr](#tldr)
+- [The Long Version](#the-long-version)
+- [The Guides](#the-guides)
 
 
 ## The Long Version

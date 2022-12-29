@@ -4,7 +4,6 @@ title:  "Refactoring a Chess Program in C#"
 date:   2022-11-23 07:13:00 -0700
 categories: csharp programming
 ---
-# Refactoring a Chess Program in C# 
 
 I want to take you with me on a journey in which I refactor a Chess program that
 was written by a novice coder. The original source code is spaghetti code with
@@ -46,7 +45,6 @@ And now the long version...
 
 # Table of Contents
 
-- [Refactoring a Chess Program in C#](#refactoring-a-chess-program-in-c)
 - [tl;dr;](#tldr)
 - [Table of Contents](#table-of-contents)
 - [The original post](#the-original-post)
