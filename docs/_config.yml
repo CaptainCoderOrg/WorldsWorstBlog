@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: World's Worst Blog
+logo: /imgs/logo.png
 #email: contact@captaincoder.org
 description: >- # this means to ignore newlines until "baseurl:"
   Musings, tutorials, and ramblings by Captain Coder!
@@ -26,7 +27,7 @@ youtube_username: CaptainCoder
 # Build settings
 markdown: kramdown
 #theme: minima-reboot
-remote_theme: aterenin/minima-reboot
+remote_theme: jcollard/minima-reboot
 plugins:
   - jekyll-feed
 
