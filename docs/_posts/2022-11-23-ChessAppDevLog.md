@@ -80,7 +80,7 @@ Chess program they had written on
 [/r/learncsharp](https://www.reddit.com/r/learncsharp/) and asked for advice on
 how they should test for bugs:
 
-![Image](imgs/2022-11-23-ChessApp/original-post.png)
+![Image](/imgs/2022-11-23-ChessApp/original-post.png)
 
 Here is a [Link to the Original
 Post](https://www.reddit.com/r/learncsharp/comments/yvk2xe/finished_my_first_app_but_unsure_how_to_test_for/)
@@ -90,7 +90,7 @@ There were only a few comments and only two stood out to me:
 
 The first gave me a chuckle:
 
-![Users Find Bugs](imgs/2022-11-23-ChessApp/users-find-bugs.png)
+![Users Find Bugs](/imgs/2022-11-23-ChessApp/users-find-bugs.png)
 
 Then... it sunk in a little bit that this feels too true for many projects
 (including my own). Unfortunately, I don't think this comment is particularly
@@ -98,7 +98,7 @@ helpful when your user base is essentially 1 (yourself).
 
 The second recommended doing some research into software testing terms:
 
-![Testing Terms](imgs/2022-11-23-ChessApp/unit-testing.png)
+![Testing Terms](/imgs/2022-11-23-ChessApp/unit-testing.png)
 
 Although short, this response felt reasonable and to the point. When I first saw
 the post, I planned to write something similar.
@@ -136,7 +136,7 @@ rather than specifically digging into testing this code.
 
 With that in mind, I wrote my response:
 
-![My Response](imgs/2022-11-23-ChessApp/my-response.png)
+![My Response](/imgs/2022-11-23-ChessApp/my-response.png)
 
 # How I got here
 
@@ -147,7 +147,7 @@ with another person.
 
 Here is the screen that comes up when you start the program:
 
-![Chess Board](imgs/2022-11-23-ChessApp/chess-screenshot.png)
+![Chess Board](/imgs/2022-11-23-ChessApp/chess-screenshot.png)
 
 With that in mind, I thought this could be a good opportunity to demonstrate how
 I might approach refactoring a messy code base. So, with **u/RayanWIP**'s
@@ -242,7 +242,7 @@ $ dotnet run < input_2.txt
 It's a little hard to see in the GIF below BUT this is the game playing itself
 as fast as my console can print it to the screen.
 
-![Fast Test](imgs/2022-11-23-ChessApp/FastTest.gif)
+![Fast Test](/imgs/2022-11-23-ChessApp/FastTest.gif)
 
 Woo-hoo! It worked! I now had a way to replay previously "recorded" games.
 
