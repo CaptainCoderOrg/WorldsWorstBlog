@@ -3,9 +3,10 @@ layout: post
 title:  "The Beginner's Guide to Advent of Code 2022"
 date:   2022-12-18 09:06:00 -0700
 categories: AdventOfCode programming tutorial
+reddit: "r/CaptainCoder/comments/zyb31h/the_beginners_guide_to_advent_of_code/"
 ---
 
-I am a believer that the Advent of Code is for *EVERYONE*! It is an excellent way to 
+**Hello Coders!** I am a believer that the Advent of Code is for *EVERYONE*! It is an excellent way to 
 practice your problem solving skills, collaborate with others, and LEARN.
 
 ## tl;dr

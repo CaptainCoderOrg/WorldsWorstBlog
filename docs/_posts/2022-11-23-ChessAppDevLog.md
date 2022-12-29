@@ -3,6 +3,7 @@ layout: post
 title:  "Refactoring a Chess Program in C#"
 date:   2022-11-23 07:13:00 -0700
 categories: csharp programming
+reddit: r/csharp/comments/z1uiir/refactoring_a_chess_program_to_use_an_object/
 ---
 
 I want to take you with me on a journey in which I refactor a Chess program that
