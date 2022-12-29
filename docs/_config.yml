@@ -17,7 +17,7 @@ title: World's Worst Blog
 email: contact@captaincoder.org
 description: >- # this means to ignore newlines until "baseurl:"
   Musings, tutorials, and ramblings by Captain Coder!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/WorldsWorstBlog" # the subpath of your site, e.g. /blog
 url: "https://blog.captaincoder.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TheCaptainCoder
 github_username:  jcollard
