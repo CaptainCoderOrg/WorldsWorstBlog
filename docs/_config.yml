@@ -25,7 +25,8 @@ youtube_username: CaptainCoder
 
 # Build settings
 markdown: kramdown
-theme: minima-reboot
+#theme: minima-reboot
+remote_theme: aterenin/minima-reboot
 plugins:
   - jekyll-feed
 
