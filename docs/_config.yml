@@ -28,10 +28,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+show_excerpts: true
+
 minima:
-  skin: solarized
-  show_excerpts: true
-  
+  skin: solarized-dark
+
   disqus:
     shortname: captaincoder
 
