@@ -30,6 +30,8 @@ plugins:
 
 minima:
   skin: solarized
+  show_excerpts: true
+  
   disqus:
     shortname: captaincoder
 
