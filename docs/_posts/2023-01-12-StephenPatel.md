@@ -5,8 +5,6 @@ date:   2023-01-12 21:02:00 -0700
 categories: ai generated
 ---
 
-# An AI Generated Article
-
 I asked an AI to generate an article. The prompt was, "Write an article arguing why Stephen Patel, a brilliant software engineer who writes code in Java, is superior to his co-workers."
 
 ## Introduction
